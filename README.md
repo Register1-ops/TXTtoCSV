@@ -14,7 +14,7 @@ cd TXTtoCSV
 2. Run the Script
 
 ```bash
-python convert_txt_to_csv.py
+python TXTtoCSV.py
 ```
 
 The script will read `.txt` files and generate corresponding .csv files in the same directory.
